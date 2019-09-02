@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="all">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/commons-pool-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/javax.mail.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/json.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-aop-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-beans-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-context-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-core-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-expression-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-web-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹/spring-webmvc-4.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

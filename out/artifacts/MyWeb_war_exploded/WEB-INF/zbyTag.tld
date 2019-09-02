@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 标签库的头文件-->
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+    version="2.0">
+	
+    <description>这是我的迭代器标签库</description>
+    <tlib-version>1.0</tlib-version>
+
+    <short-name>zbytaglib</short-name>
+    <uri>http://www.zby123.club</uri>
+	
+	<!-- -自定义标签的相关信息 -->
+    <tag>
+        <description>这是我的迭代器标签</description>
+        <name>mytag</name>
+        <tag-class>com.zby.tag.MyIteration</tag-class>
+        <body-content>JSP</body-content>
+
+		<attribute>
+			<name>num</name>
+			<required>true</required>
+		</attribute>
+    </tag>
+
+
+    <tag>
+        <description>内容更改</description>
+        <name>totag</name>
+        <tag-class>com.zby.tag.ToTagSupport</tag-class>
+        <body-content>JSP</body-content>
+        <attribute>
+            <name>value</name>
+            <required>true</required>
+        </attribute>
+    </tag>
+    <tag>
+        <description>登录验证</description>
+        <name>login</name>
+        <tag-class>com.zby.tag.LoginSession</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+    <tag>
+        <description>退出验证</description>
+        <name>login_out</name>
+        <tag-class>com.zby.tag.LoginOut</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+
+
+</taglib>
+
+
+
+
